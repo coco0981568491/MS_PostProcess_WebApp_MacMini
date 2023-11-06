@@ -82,7 +82,7 @@ jupyter_server_ydoc==0.8.0
 jupyter-ydoc==0.2.4
 jupyterlab==3.6.3
 jupyterlab-pygments==0.1.2
-jupyterlab_server==2.22.0
+jupyterlab_server==2.0.0rc3
 jupyterlab-widgets==3.0.5
 kiwisolver==1.4.4
 kombu==5.3.2
