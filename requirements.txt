@@ -54,7 +54,7 @@ executing==0.8.3
 fastcore==1.5.29
 fastjsonschema==2.16.2
 fonttools==4.38.0
-gevent==23.9.1
+gevent==22.10.2
 greenlet==3.0.1
 hyperlink==21.0.0
 idna==3.4
