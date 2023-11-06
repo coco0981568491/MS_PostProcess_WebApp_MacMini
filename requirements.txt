@@ -155,7 +155,7 @@ setuptools==68.0.0
 shortuuid==1.0.11
 six==1.16.0
 sniffio==1.2.0
-soupsieve==2.5
+soupsieve==2.4.1
 SQLAlchemy==1.4.27
 sqlparse==0.4.4
 stack-data==0.2.0
