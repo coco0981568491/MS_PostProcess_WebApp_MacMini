@@ -53,7 +53,7 @@ execnb==0.1.5
 executing==0.8.3
 fastcore==1.5.29
 fastjsonschema==2.16.2
-fonttools==4.43.1
+fonttools==4.38.0
 gevent==23.9.1
 greenlet==3.0.1
 hyperlink==21.0.0
